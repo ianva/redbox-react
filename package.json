@@ -1,5 +1,6 @@
 {
   "name": "@ianva/redbox-react",
+  "version": "1.0.0",
   "description": "A redbox (rsod) component to display your errors.",
   "main": "lib/index.js",
   "types": "types/redbox-react.d.ts",
